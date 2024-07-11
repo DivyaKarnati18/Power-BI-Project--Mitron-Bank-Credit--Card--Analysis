@@ -2,6 +2,13 @@
 
 Mitron Bank, a legacy financial institution headquartered in Hyderabad, aims to introduce a new line of credit cards to broaden its product offerings and reach in the financial market.
 
+## Dashboard
+
+[View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2I5MTZhZmItMjQzMi00ODZhLTlhYmYtNzkwZWMxNTJkYWUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+Feel free to explore the dashboard for detailed insights and analysis.
+---
+
 ## Tech Stacks
 - **Data Visualization:** Power BI
 - **Data Processing:** Excel
@@ -54,10 +61,5 @@ Mitron Bank, a legacy financial institution headquartered in Hyderabad, aims to 
 6. **City-Wise Variations**
    - Focus on cities like Mumbai, Delhi NCR, and Bengaluru, which exhibit higher income and spending, with utilization rates of 51.43%, 48.03%, and 43.46%, respectively.
 
-## Dashboard
-
-[View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2I5MTZhZmItMjQzMi00ODZhLTlhYmYtNzkwZWMxNTJkYWUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
----
 
 Feel free to explore the dashboard for detailed insights and analysis.
