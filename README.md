@@ -4,7 +4,7 @@ Mitron Bank, a legacy financial institution headquartered in Hyderabad, aims to 
 
 ## Dashboard
 
-[View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2I5MTZhZmItMjQzMi00ODZhLTlhYmYtNzkwZWMxNTJkYWUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjVhZDQ5NjAtNGVkNC00NGZmLTgzMWUtMzUyMjkyNDRmZDUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Feel free to explore the dashboard for detailed insights and analysis.
 ---
